@@ -24,3 +24,6 @@
 
 ### 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
 * Í hvert skipti sem þú gerir breytingar sem þú vilt commenta í.
+
+### 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+* Git directory er þar sem Git geymir lýsigögn og hlutagagnagrunn fyrir verkefnið þitt. Þetta er mikilvægasti hlutinn í Git og það er það sem er afritað þegar þú klónar geymslu úr annarri tölvu.

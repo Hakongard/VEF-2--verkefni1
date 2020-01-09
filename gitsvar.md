@@ -22,3 +22,5 @@
 * Getur flutt yfir stórar skrár
 * Er mjög hraðvirkt
 
+### 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
+* Í hvert skipti sem þú gerir breytingar sem þú vilt commenta í.

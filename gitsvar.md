@@ -16,3 +16,9 @@
 
 ### 4. Hvað er útgáfustýring (Version Control)?
 * Það skráir niður allar breytingar yfir tíma svo þú getur farið í fyrrverandi version af t.d skjali
+
+### 5. Hverjir eru helstu kostir við að nota GIT?
+* Hentar vel yfir hópverkefni
+* Getur flutt yfir stórar skrár
+* Er mjög hraðvirkt
+
